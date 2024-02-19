@@ -6,7 +6,7 @@ Như chúng ta đã biết thì để finetuning một mô hình ngôn ngữ l�
 
 ### Vậy repo sinh ra để làm gì? 
 
-Thật ra thì những cái này các bạn có thể đọc ở (Huggingface)[https://huggingface.co/docs/peft/index]. Nhưng mà mình đang trong quá trình học và tìm hiểu cái món này. Nên là mình có thể sẽ sử dụng repo này như một phương thức để note lại những kiến thức mà mình đã học được cũng như tìm hiểu được về PEFT. Ở mỗi phần mình cx cố gắng đọc thêm và note các kiến thức liên quan đến những kiến thức mà họ sử dụng. Và tất nhiên là note bằng tiếng việt (do mình ngu tiếng anh ạ :3).
+Thật ra thì những cái này các bạn có thể đọc ở [Huggingface](https://huggingface.co/docs/peft/index). Nhưng mà mình đang trong quá trình học và tìm hiểu cái món này. Nên là mình có thể sẽ sử dụng repo này như một phương thức để note lại những kiến thức mà mình đã học được cũng như tìm hiểu được về PEFT. Ở mỗi phần mình cx cố gắng đọc thêm và note các kiến thức liên quan đến những kiến thức mà họ sử dụng. Và tất nhiên là note bằng tiếng việt (do mình ngu tiếng anh ạ :3).
 
 ### Bố cục? 
 
